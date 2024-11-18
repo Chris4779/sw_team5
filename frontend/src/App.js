@@ -5,7 +5,7 @@ import MainScreen from './screens/MainScreen/MainScreen';
 import PrivateRoute from './components/Routes/PrivateRoute';
 import PublicRoute from './components/Routes/PublicRoute';
 
-
+// hello word from bozo
 const App = () => {
   return (
       <Router>
